@@ -117,7 +117,6 @@ D:\MovieRental2\MovieRental\obj\Debug\MovieRental.Migrations.removingMovieGenreC
 D:\MovieRental2\MovieRental\obj\Debug\MovieRental.Migrations.AddingGenre.resources
 D:\MovieRental2\MovieRental\obj\Debug\MovieRental.Migrations.Genre2.resources
 D:\MovieRental2\MovieRental\obj\Debug\MovieRental.Migrations.Genre3.resources
-D:\MovieRental2\MovieRental\obj\Debug\MovieRental.csproj.CopyComplete
 D:\MovieRental2\MovieRental\bin\Newtonsoft.Json.Bson.dll
 D:\MovieRental2\MovieRental\bin\System.Buffers.dll
 D:\MovieRental2\MovieRental\bin\System.Memory.dll
@@ -139,3 +138,4 @@ D:\MovieRental2\MovieRental\bin\System.Web.Http.xml
 D:\MovieRental2\MovieRental\bin\System.Web.Http.WebHost.xml
 D:\MovieRental2\MovieRental\bin\AutoMapper.dll
 D:\MovieRental2\MovieRental\bin\AutoMapper.xml
+D:\MovieRental2\MovieRental\obj\Debug\MovieRental.csproj.CopyComplete

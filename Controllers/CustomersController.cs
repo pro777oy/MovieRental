@@ -20,6 +20,7 @@ namespace MovieRental.Controllers
             _context.Dispose();
         }
 
+        //Add new customer
         public ActionResult New()
         {
             var membershipTypes = _context.MembershipTypes.ToList();
